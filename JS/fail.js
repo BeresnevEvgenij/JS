@@ -20,3 +20,7 @@ let out2 = document.querySelector('#out-2');
       out2.value = false;
     }
   }
+let classP = document.querySelector('#classP');
+  document.querySelector('#classP').onclick = function () {
+    console.log("4444");
+}
