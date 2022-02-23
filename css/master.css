@@ -1,0 +1,15 @@
+
+h1{
+  display: flex;
+  justify-content: center;
+  background: orange;
+  padding: 30px;
+  width: 600px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 5px 1px black;
+  margin: auto;
+}
+p{
+  display: flex;
+  justify-content: center;
+}

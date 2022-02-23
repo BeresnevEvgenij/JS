@@ -24,3 +24,7 @@ let classP = document.querySelector('#classP');
   document.querySelector('#classP').onclick = function () {
     console.log("4444");
 }
+
+for (var i = 0; i < 8; i++) {
+  console.log(i+"_");
+}
