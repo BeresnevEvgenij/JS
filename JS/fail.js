@@ -3,10 +3,6 @@ document.querySelector('#btm-1').onclick = function() {
   out1.value = "1";
 }
 
-console.log("Евгений");
-console.log(02);
-console.log('Добро '+'плжаловать '+'на курс!');
-
 let a = 7;
 let b = 9;
 console.log(a * b);

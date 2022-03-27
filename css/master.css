@@ -1,4 +1,6 @@
-
+body{
+  background: #ABABAB;
+}
 h1{
   display: flex;
   justify-content: center;
